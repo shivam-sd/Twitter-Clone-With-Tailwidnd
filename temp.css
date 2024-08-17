@@ -1,0 +1,11 @@
+*{
+    border-color: gray;
+}
+
+.second {
+    -ms-overflow-style:none;
+    scrollbar-width:none;
+}
+.third{
+    scrollbar-width:none;
+}
